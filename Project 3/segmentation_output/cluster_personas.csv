@@ -1,0 +1,5 @@
+cluster,Quantity,UnitPrice,TotalPrice,ItemsInCart,cart_fill_ratio,has_coupon,size,top_Product,top_PaymentMethod,top_ReferralSource
+0,4.07,444.83,1755.33,6.83,0.63,1.0,397,Printer,Credit Card,Instagram
+1,2.25,284.67,545.83,4.57,0.56,0.0,185,Tablet,Online,Google
+2,4.23,433.38,1785.67,7.03,0.64,0.0,124,Chair,Cash,Facebook
+3,1.98,292.91,496.95,4.36,0.53,1.0,494,Phone,Online,Instagram
